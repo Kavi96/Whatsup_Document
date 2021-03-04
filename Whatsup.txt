@@ -11,3 +11,5 @@ This is Whatsup document
 5. Video Feature
 
 6. Adding last seen as users can play train game
+
+7. Group Feature 100 users
