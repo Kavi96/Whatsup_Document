@@ -9,3 +9,5 @@ This is Whatsup document
 4. Audio Feature
 
 5. Video Feature
+
+6. Adding last seen as users can play train game
