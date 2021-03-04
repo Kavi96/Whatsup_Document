@@ -12,4 +12,4 @@ This is Whatsup document
 
 6. Adding last seen as users can play train game
 
-7. Group Feature 100 users
+7. Group Feature 200 users
