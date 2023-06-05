@@ -15,3 +15,5 @@ This is Whatsup document
 7. Group Feature 200 users
 
 8. Attachment of any type as well as document
+
+9.Texting ourself 
